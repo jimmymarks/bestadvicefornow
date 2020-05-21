@@ -31,4 +31,4 @@ fields:
   label: Extra Text Content
   description: Additional content past the first paragraph.
 pages:
-- src/page-content/About the mission and vision and such.md
+- src/page-content/aboutthis.md
