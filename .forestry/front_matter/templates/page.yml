@@ -28,3 +28,5 @@ fields:
       format: markdown
   label: Page Description
   description: 'What is this page about? '
+pages:
+- src/pages/about-this-site.md
