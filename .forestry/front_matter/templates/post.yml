@@ -15,5 +15,13 @@ fields:
 - type: list
   name: tags
   label: tags
+- name: sources
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Sources
+  description: The sources for this info.
 pages:
 - src/posts/social-distancing-and-mask-wearing.md
