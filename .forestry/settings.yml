@@ -5,12 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: src/page-content
-  label: Pages
+  path: src/pages
+  label: Page
   create: all
   match: "*.md"
-  templates:
-  - page
+  exclude: "*.json"
 - type: heading
   label: Content
 - type: directory
