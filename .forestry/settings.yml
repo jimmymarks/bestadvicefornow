@@ -4,6 +4,13 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: src/page-content
+  label: Pages
+  create: all
+  match: "*.md"
+  templates:
+  - page
 - type: heading
   label: Content
 - type: directory
@@ -13,9 +20,6 @@ sections:
   match: "*.md"
   templates:
   - post
-- type: document
-  path: src/content-page
-  label: Pages
 - type: heading
   label: Globals
 - type: document
