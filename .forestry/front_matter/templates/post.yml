@@ -16,12 +16,21 @@ fields:
   name: tags
   label: tags
 - name: sources
-  type: list
-  config:
-    use_select: false
-    min: 
-    max: 
+  type: field_group
+  config: {}
+  fields:
+  - name: source_label
+    type: text
+    config:
+      required: false
+    label: Source Label
+  - name: source_url
+    type: text
+    config:
+      required: false
+    label: Source URL
+    description: Include https://
   label: Sources
-  description: The sources for this info.
+  description: The sources for this advice
 pages:
 - src/posts/social-distancing-and-mask-wearing.md
