@@ -38,6 +38,7 @@ fields:
   description: The sources for this advice.
 pages:
 - src/posts/clean-your-pocket-items-regularly.md
+- src/posts/if-you-think-you-might-have-the-virus.md
 - src/posts/maintain-a-social-distance-of-at-least-6-feet.md
 - src/posts/on-groceries.md
 - src/posts/wash-and-sanitize-your-hands.md
