@@ -37,4 +37,5 @@ fields:
   label: Sources
   description: The sources for this advice.
 pages:
+- src/posts/maintain-a-social-distance-of-at-least-6-feet.md
 - src/posts/social-distancing-and-mask-wearing.md
