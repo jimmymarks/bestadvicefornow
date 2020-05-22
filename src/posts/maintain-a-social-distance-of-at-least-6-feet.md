@@ -4,6 +4,8 @@ title: Maintain a "Social Distance" of at least 6 feet
 tags:
 - social distancing
 sources:
+- source_name: 'WHO: Distancing vs. Isolation vs. Quarantine'
+  source_url: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses#
 - source_name: CDC.gov Social Distancing page
   source_url: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/social-distancing.html
 
