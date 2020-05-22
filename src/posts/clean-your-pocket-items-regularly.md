@@ -5,6 +5,8 @@ tags:
 - cleaning
 - hygiene
 sources:
+- source_name: AARP guide to phone cleaning
+  source_url: https://www.aarp.org/home-family/personal-technology/info-2020/clean-device-screen.html
 - source_name: 'NBC - Clean your phone regularly '
   source_url: https://www.cnbc.com/2020/03/25/clean-phone-prevent-coronavirus-spread-doctors-say-heres-how-without-damaging-screen.html
 
