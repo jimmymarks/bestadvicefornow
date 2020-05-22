@@ -37,6 +37,7 @@ fields:
   label: Sources
   description: The sources for this advice.
 pages:
+- src/posts/clean-your-pocket-items-regularly.md
 - src/posts/maintain-a-social-distance-of-at-least-6-feet.md
 - src/posts/wash-and-sanitize-your-hands.md
 - src/posts/wear-a-mask-in-public-spaces.md
