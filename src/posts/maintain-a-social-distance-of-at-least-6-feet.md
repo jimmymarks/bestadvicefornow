@@ -1,6 +1,6 @@
 ---
 date: 2020-05-22
-title: Maintain a "Social Distance" of at least 6 feet
+title: 1. Maintain a "Social Distance" of at least 6 feet
 tags:
 - social distancing
 sources:
