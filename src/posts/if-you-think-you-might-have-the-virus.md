@@ -1,6 +1,6 @@
 ---
 date: 2020-05-22
-title: If you think you might have the virus
+title: 6. If you think you might have the virus
 tags: []
 sources:
 - source_name: CDC's "What To Do If YOu Are Sick" page, including symptom checker
