@@ -4,7 +4,9 @@ title: Wear a mask in public spaces
 tags:
 - Respiratory health
 - Face masks
-sources: []
+sources:
+- source_name: CDC.gov Face Mask page (with instructions)
+  source_url: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html
 
 ---
 When you have to visit a store or any publicly-accessible space, you should **wear a face mask that covers your nose and mouth adequately**. You can use a simple bandana, folded over on itself, secured with rubber bands on the side (see the do-it-yourself mask link in "Sources" section). You can also use a cloth mask or a disposable medical mask. N95 masks are hard to source at the moment, but do the best job of filtering out harmful particles. 
