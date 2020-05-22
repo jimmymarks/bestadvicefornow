@@ -5,6 +5,8 @@ tags:
 - Respiratory health
 - Face masks
 sources:
+- source_name: ScienceDaily - U of MD study
+  source_url: https://www.sciencedaily.com/releases/2020/04/200403132345.htm
 - source_name: CDC.gov Face Mask page (with instructions)
   source_url: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html
 
