@@ -1,6 +1,6 @@
 ---
 date: 2020-05-22
-title: Wash and sanitize your hands
+title: 3. Wash and sanitize your hands
 tags:
 - hand sanitizer
 - hand washing
