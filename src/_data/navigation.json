@@ -6,7 +6,12 @@
       "external": false
     },
     {
-      "text": "About This",
+      "text": "About",
+      "url": "/pages/about",
+      "external": false
+    },
+    {
+      "text": "Help Out",
       "url": "/pages/about",
       "external": false
     }

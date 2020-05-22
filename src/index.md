@@ -7,7 +7,7 @@ archiveButtonText: See all advice
 socialImage: ''
 ---
 
-We as a nation have been under a state of emergency since March 13, 2020 (read the declaration here on the White House website).
+We as a nation have been under a state of emergency since March 13, 2020 ([read the declaration here on the White House website](https://www.whitehouse.gov/presidential-actions/proclamation-declaring-national-emergency-concerning-novel-coronavirus-disease-covid-19-outbreak/)).
 
 With so many new revelations coming in each and every day, it can be difficult to know what to do, day to day.
 
