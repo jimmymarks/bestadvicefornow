@@ -1,6 +1,6 @@
 ---
 date: 2020-05-22
-title: Wear a mask in public spaces
+title: 2. Wear a mask in public spaces
 tags:
 - Respiratory health
 - Face masks
