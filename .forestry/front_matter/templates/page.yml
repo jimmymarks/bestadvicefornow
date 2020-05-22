@@ -29,4 +29,4 @@ fields:
   label: Page Description
   description: 'What is this page about? '
 pages:
-- src/pages/about-this-site.md
+- src/pages/about.md
