@@ -1,7 +1,7 @@
 ---
 layout: home
-title: The Best Advice
-subtitle: (For Now)
+title: Bringing you the best advice we can about the coronavirus
+subtitle:
 postsHeading: Latest posts
 archiveButtonText: See all advice
 socialImage: ''
