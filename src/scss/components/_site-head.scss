@@ -1,7 +1,18 @@
 .site-head {
+  background-color: var(--color-primary);
   &__site-name {
     font-weight: 700;
     text-decoration: none;
-    color: var(--color-text);
+    // color: var(--color-light);
   }
+
+ .fancy-title{
+   font-size: get-size(700);
+   font-weight: 500;
+   color: var(--color-light);
+   @include apply-utility('font', 'base');
+   a:visited{
+     color: var(--color-theme-highlight);
+   }
+ }
 }

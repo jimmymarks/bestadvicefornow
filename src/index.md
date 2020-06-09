@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Bringing you the best advice we can about the coronavirus
+title: Bringing you the best advice we can about the coronavirus and COVID-19
 subtitle:
 postsHeading: Latest posts
 archiveButtonText: See all advice

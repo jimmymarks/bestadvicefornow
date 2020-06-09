@@ -51,10 +51,14 @@ module.exports = function(config) {
       .slice(0, site.maxPostsPerPage);
   });
 
+  config.addCollection('postAlpha', collection => {
+    return [...collection.getFilteredByGlob('./src/posts/*.md').filter(livePosts)]
+  });
+
   // Plugins
   config.addPlugin(rssPlugin);
   config.addPlugin(syntaxHighlight);
-  
+
   /* Forestry instant previews */
   if( process.env.ELEVENTY_ENV == "staging" ) {
     eleventyConfig.setBrowserSyncConfig({
@@ -62,7 +66,7 @@ module.exports = function(config) {
     });
   }
 
-  // 404 
+  // 404
   config.setBrowserSyncConfig({
     callbacks: {
       ready: function(err, browserSync) {

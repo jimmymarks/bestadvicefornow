@@ -9,13 +9,14 @@
 
 {# Post list content #}
 {% set postListHeading = postsHeading %}
-{% set postListItems = collections.postFeed %}
+{% set postListItems = collections.postAlpha %}
 
-{# Archive link #}
-{% if postListItems.length < collections.posts.length %} 
+{# Archive link
+{% if postListItems.length < collections.posts.length %}
   {% set paginationNextText = archiveButtonText %}
   {% set paginationNextUrl = '/archive' %}
 {% endif %}
+ #}
 
 {% block content %}
   <main id="main-content" tabindex="-1">

@@ -1,11 +1,21 @@
 .site-foot {
-  // Reverse whatever the theme colors are
-  background: var(--color-bg-glare);
-  color: var(--color-text);
+
+  background-color: var(--color-primary);
+
+  &__details {
+    background-color: inherit;
+  }
+
+  div {
+    flex: 1 .5 500px;
+  }
+
+  // background: var(--color-selection-bg);
+  color: var(--color-light);
   border-top: 1px solid var(--color-stroke);
 
   a {
-    color: currentColor;
+    color: var(--color-light);
 
     &:hover {
       text-decoration: none;

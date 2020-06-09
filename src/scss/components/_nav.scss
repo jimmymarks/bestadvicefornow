@@ -18,8 +18,8 @@
     flex-shrink: 0;
 
     a {
-      color: currentColor;
-
+      color: var(--color-light);
+      @include apply-utility('font','base');
       @include apply-utility('weight', 'mid');
 
       &:not(:hover) {
