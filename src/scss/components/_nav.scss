@@ -27,4 +27,17 @@
       }
     }
   }
+  &__item--tags {
+    a {
+      color: var(--color-primary);
+      @include apply-utility('font','base');
+      @include apply-utility('weight', 'mid');
+
+      &:not(:hover) {
+        color: var(--color-light);
+        background-color: var(--color-primary);
+        text-decoration: none;
+      }
+    }
+  }
 }

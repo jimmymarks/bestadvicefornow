@@ -6,9 +6,8 @@
 {% set introSummary %}
 <p class="[ intro__meta ] [ text-500 leading-tight ]">
   {% if date %}
-    <time datetime="{{ date | w3DateFilter }}" class="dt-published">{{ date | dateFilter }}</time>
+    <small>Last updated on <time datetime="{{ date | w3DateFilter }}" class="dt-published">{{ date | dateFilter }}</time></small>
   {% endif %}
-  <span>— {{ helpers.getReadingTime(content) }} minute read</span>
 </p>
 {% endset %}
 
@@ -25,14 +24,24 @@
           {% include "partials/global/third-party-comments.njk" %}
         </aside>
       {% endif %}
-      {% if tags %}
+      {% if sources.length %}
+      <div class="[ post__body ] [ inner-wrapper ] [ pad-bottom-700 ]">
+        <h3 class="">Sources for this advice</h3>
+          <ul class="[ pad-top-700 ]">
+          {% for item in sources %}
+              <li class="[ text-500 leading-loose ]"><a href="{{ item.source_url }}" target="_blank">{{ item.source_name }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+      {% if tags.length %}
         <footer class="[ post__footer ] [ pad-top-500 pad-bottom-500 ]">
           <div class="inner-wrapper">
             <div class="[ nav ] [ box-flex align-center ]">
-              <h2 class="font-base text-600 weight-mid">Filed under</h2>
+              <h2 class="font-base text-600 weight-mid">Filed under:</h2>
               <ul class="[ nav__list ] [ box-flex align-center pad-left-400 ] [ p-category ]">
                 {% for item in tags %}
-                  <li class="nav__item">
+                  <li class="nav__item--tags">
                     <a href="/tags/{{ item }}">{{ item }}</a>
                   </li>
                 {% endfor %}

@@ -51,8 +51,15 @@ module.exports = function(config) {
       .slice(0, site.maxPostsPerPage);
   });
 
-  config.addCollection('postAlpha', collection => {
+  config.addCollection('postsAscending', collection => {
     return [...collection.getFilteredByGlob('./src/posts/*.md').filter(livePosts)]
+      .sort(function(a, b) {
+          let nameA = a.data.title.toUpperCase();
+          let nameB = b.data.title.toUpperCase();
+          if (nameA < nameB) return -1;
+          else if (nameA > nameB) return 1;
+          else return 0;
+      });
   });
 
   // Plugins

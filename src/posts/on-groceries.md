@@ -1,6 +1,6 @@
 ---
 date: 2020-05-22
-title: 5. On Groceries/Shopping
+title: On Groceries/Shopping
 tags:
 - public health
 - stores
@@ -14,6 +14,6 @@ sources:
   source_url: https://www.sciencealert.com/food-safety-expert-explains-how-to-safely-deal-with-groceries-during-the-pandemic
 
 ---
-It is **probably not necessary to decontaminate your groceries** unless it would make you feel safer, or if you know you are more susceptible to infection. The greatest hazard in grocery stores is close contact. To avoid that, try your best to [maintain social distance](#) and [wear a cloth mask](#) while in the store. 
+It is **probably not necessary to decontaminate your groceries** unless it would make you feel safer, or if you know you are more susceptible to infection. The greatest hazard in grocery stores is close contact. To avoid that, try your best to [maintain social distance](#) and [wear a cloth mask](#) while in the store.
 
-You may also want to wash your vegetables, fruits and other produce with light soap and water, but avoid using harsh antiseptics or bleach as these are unnecessary and perhaps harmful. 
+You may also want to wash your vegetables, fruits and other produce with light soap and water, but avoid using harsh antiseptics or bleach as these are unnecessary and perhaps harmful.
