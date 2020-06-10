@@ -2,7 +2,9 @@
 
   <div class="[ inner-wrapper ] [ sf-flow ]">
     <h1 class="[ text-800 md:text-900 leading-tight ] [ p-name ]">{{ introHeading }}</h1>
-    <h2>It is {{ global.now | dateFilter }}</h2>
+    {% if isHome %}
+      <h2> It is {{ global.now | dateFilter }}.</h2>
+    {% endif %}
     {% if introSummary %}
       <div class="[ intro__summary ] [ sf-flow ] [ leading-mid measure-short ]">{{ introSummary | safe }}</div>
     {% endif %}

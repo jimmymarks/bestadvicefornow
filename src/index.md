@@ -5,6 +5,7 @@ subtitle:
 postsHeading: 'The advice thus far:'
 archiveButtonText: See all advice
 socialImage: ''
+isHome: true
 ---
 
 We as a nation have been under a state of emergency since March 13, 2020 ([read the declaration here on the White House website](https://www.whitehouse.gov/presidential-actions/proclamation-declaring-national-emergency-concerning-novel-coronavirus-disease-covid-19-outbreak/)).
