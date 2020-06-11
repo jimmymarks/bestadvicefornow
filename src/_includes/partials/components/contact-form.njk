@@ -1,0 +1,17 @@
+<form name="contact" method="POST" data-netlify="true" action="/thank-you" netlify-honeypot="bot-field">
+  <ol class="[ field-list ]">
+    <li class="[ field-list__field-group ]">
+      <label>Your Name: <input type="text" name="name" /></label>
+    </li>
+    <li class="[ field-list__field-group ]">
+      <label>Your Email: <input type="email" name="email" /></label>
+    </li>
+    <li class="[ field-list__field-group ]">
+      <label>Message: <textarea name="message"></textarea></label>
+    </li>
+    <li hidden>
+      <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+    </li>
+  </ol>
+    <button type="submit" class="[ button text-500 ]">Send</button>
+</form>
