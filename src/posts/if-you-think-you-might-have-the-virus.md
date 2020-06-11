@@ -3,7 +3,7 @@ date: 2020-05-22
 title: If you think you might have the virus
 tags: []
 sources:
-- source_name: CDC's "What To Do If YOu Are Sick" page, including symptom checker
+- source_name: CDC's "What To Do If You Are Sick" page, including symptom checker
   source_url: https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html
 - source_url: https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/testing.html
   source_name: CDC's Testing Site
