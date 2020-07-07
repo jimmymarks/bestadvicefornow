@@ -6,7 +6,7 @@ name: Compile at night
 # events but only for the master branch
 on:
   schedule:
-  - cron: "25 7 * * 0-7"
+  - cron: '*/10 * * * *'
   push: 
     branches: 
       - forestry
