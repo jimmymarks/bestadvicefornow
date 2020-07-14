@@ -1,5 +1,6 @@
 const rssPlugin = require('@11ty/eleventy-plugin-rss');
 const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
+const imagesResponsiver = require('eleventy-plugin-images-responsiver');
 const fs = require("fs");
 
 // Import filters
@@ -13,6 +14,7 @@ const parseTransform = require('./src/transforms/parse-transform.js');
 
 // Import data files
 const site = require('./src/_data/site.json');
+
 
 module.exports = function(config) {
   // Filters
@@ -66,6 +68,7 @@ module.exports = function(config) {
   // Plugins
   config.addPlugin(rssPlugin);
   config.addPlugin(syntaxHighlight);
+  config.addPlugin(imagesResponsiver);
 
   /* Forestry instant previews */
   if( process.env.ELEVENTY_ENV == "staging" ) {

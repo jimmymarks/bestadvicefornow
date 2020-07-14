@@ -18,10 +18,13 @@ sources:
   source_url: https://www.cnet.com/health/mandatory-face-masks-in-stores-cars-outside-where-youre-expected-to-wear-a-covering/
 
 ---
+
+![Wear a mask ](../../images/IMG_0477.PNG)
+
 When you have to visit a store or any publicly-accessible space, you should **wear a face mask that covers your nose and mouth adequately**. You can use a simple bandana, folded over on itself, secured with rubber bands on the side (see the do-it-yourself mask link in "Sources" section). You can also use a cloth mask or a disposable medical mask.
 
 **Wearing masks can prevent the spread of the virus significantly**. Some of the sources consulted in creating this advice post suggest that masks may even be more important than social distancing in slowing the spread of the virus (though the two are recommended to be used together to improve the effect of both).
 
 Most sources say that it is not necessary to wear a mask all the time. It is best reserved for close-quarter spaces indoors outside of your home. In public, well-ventilated spaces that are not heavily-traveled (such as hiking trails or a public street during a walk), it is probably not necessary, but you may want to carry a mask in case you have to make a close encounter with other people. For example: in California, beach-goers are required to wear masks when not in the water, as beaches there tend to be densely populated.
 
-Your state may require you to wear a mask in public places and may issue fines or make arrests if you do not comply with the law. Be mindful of state laws and ordinances. 
+Your state may require you to wear a mask in public places and may issue fines or make arrests if you do not comply with the law. Be mindful of state laws and ordinances.
