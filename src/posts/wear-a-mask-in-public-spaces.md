@@ -1,5 +1,5 @@
 ---
-date: 2020-06-15
+date: 2020-06-19
 title: Wear a mask in public spaces
 tags:
 - Respiratory health
