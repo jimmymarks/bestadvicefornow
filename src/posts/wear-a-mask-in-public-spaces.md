@@ -18,8 +18,7 @@ sources:
   source_url: https://www.cnet.com/health/mandatory-face-masks-in-stores-cars-outside-where-youre-expected-to-wear-a-covering/
 
 ---
-
-![Wear a mask ](../../images/IMG_0477.PNG)
+![A woman wearing a mask, shown in profile, and a man wearing a mask, shown face-on.](/images/IMG_0477.PNG "Wear a mask that covers your nose and mouth.")
 
 When you have to visit a store or any publicly-accessible space, you should **wear a face mask that covers your nose and mouth adequately**. You can use a simple bandana, folded over on itself, secured with rubber bands on the side (see the do-it-yourself mask link in "Sources" section). You can also use a cloth mask or a disposable medical mask.
 
