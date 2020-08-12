@@ -11,7 +11,7 @@
    font-weight: 500;
    color: var(--color-light);
    @include apply-utility('font', 'base');
-   a:visited{
+   a, a:visited{
      color: var(--color-theme-highlight);
    }
  }
