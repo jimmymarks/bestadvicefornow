@@ -1,10 +1,13 @@
 ---
-date: 2020-06-19
+date: 2020-08-12
 title: Wear a mask in public spaces
 tags:
 - Respiratory health
 - Face masks
 sources:
+- source_name: Low-cost measurement of facemask efficacy for filtering expelled droplets
+    during speech
+  source_url: https://advances.sciencemag.org/content/early/2020/08/07/sciadv.abd3083.full
 - source_name: PNAS - Identifying airborne transmission as the dominant route for
     the spread of COVID-19
   source_url: https://www.pnas.org/node/931542.full
@@ -20,7 +23,7 @@ sources:
 ---
 ![A woman wearing a mask, shown in profile, and a man wearing a mask, shown face-on.](/images/IMG_0477.PNG)
 
-When you have to visit a store or any publicly-accessible space, you should **wear a face mask that covers your nose and mouth adequately**. You can use a simple bandana, folded over on itself, secured with rubber bands on the side (see the do-it-yourself mask link in "Sources" section). You can also use a cloth mask or a disposable medical mask.
+When you have to visit a store or any publicly-accessible space, you should **wear a face mask that covers your nose and mouth adequately**. You can use a simple bandana, folded over on itself, secured with rubber bands on the side (see the do-it-yourself mask link in "Sources" section). You can also use a cloth mask or a disposable medical mask. **Neck gaiters**—simple stretchy fabric masks worn around the neck for quick application—**are not recommended**, as they may actually cause larger droplets to aerosolize more and spread the virus further than no mask at all. 
 
 **Wearing masks can prevent the spread of the virus significantly**. Some of the sources consulted in creating this advice post suggest that masks may even be more important than social distancing in slowing the spread of the virus (though the two are recommended to be used together to improve the effect of both).
 
